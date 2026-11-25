@@ -9,7 +9,7 @@ import { BatteryPoller, fetchSimpleStatus } from 'powerwall';
 
 const config = {
   din: '1707000-XX-X--TGXXXXXXXXXXXX',
-  secret: 'YOUR_WIFI_PASSWORD',
+  secret: 'YOUR_POWERWALL_PASSWORD',
   // remote: '192.168.91.1:443', // optional default
 };
 
